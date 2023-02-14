@@ -4,8 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 
-import 'exam_four/Pages/Main/mainHomePage.dart';
-import 'exam_four/controller/home_controller.dart';
+import 'Pages/Main/mainHomePage.dart';
+import 'controller/home_controller.dart';
+
 
 
 void main() async {
